@@ -3,12 +3,12 @@
 This project was created in JS
 
 ## Functionality:
-Select and move the desired elements
-Select and move all elements in both directions
-Delete items
-Add items
-Reset all
-Search for the desired item
+Select and move the desired elements  
+Select and move all elements in both directions  
+Delete items  
+Add items  
+Reset all  
+Search for the desired item  
 
 
 ## Available Scripts
